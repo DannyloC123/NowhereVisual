@@ -1,13 +1,11 @@
 import schedule
 import time
 from hashtags import hashtags
+from openai import OpenAI
 
 
 def post():
     print('Creating Post')
-
-
-
 
 
 
